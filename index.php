@@ -1,4 +1,3 @@
-<?php
 <html>
 <table border="1" cellpadding="10">
         <tr>
@@ -9,5 +8,4 @@
             <td>10116295</td>
             <td>Adam Aris Rizaldy</td>
         </tr>
-<?
 </html>
